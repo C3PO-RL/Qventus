@@ -1,0 +1,12 @@
+.icon {
+    color: red; 
+    font-size: 34px; 
+    margin-right: 5%
+}
+
+.errorWrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
